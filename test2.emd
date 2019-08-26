@@ -1,0 +1,30 @@
+[Info]
+Version = 3
+
+[Effect]
+Obj = none
+Obj[0] = Shader\Body\Tuni-kun's NS Shader.fx
+Obj[0].show = true
+Obj[1] = Shader\Body\Tuni-kun's NS Shader.fx
+Obj[1].show = true
+Obj[2] = Shader\Body\Tuni-kun's NS Shader.fx
+Obj[2].show = true
+Obj[8] = Shader\Headphone\Tuni-kun's NS Shader.fx
+Obj[8].show = true
+Obj[9] = Shader\Headphone\Tuni-kun's NS Shader.fx
+Obj[9].show = true
+Obj[10] = Shader\Jacket\Tuni-kun's NS Shader.fx
+Obj[10].show = true
+Obj[11] = Shader\Jacket\Tuni-kun's NS Shader.fx
+Obj[11].show = true
+Obj[13] = Shader\Jacket\Tuni-kun's NS Shader.fx
+Obj[13].show = true
+Obj[15] = Shader\accesories\Tuni-kun's NS Shader.fx
+Obj[15].show = true
+Obj[16] = Shader\Front Hair\Tuni-kun's NS Shader.fx
+Obj[17] = Shader\Front Hair\Tuni-kun's NS Shader.fx
+Obj[17].show = true
+Obj[18] = Shader\HairTail\Tuni-kun's NS Shader.fx
+Obj[19] = Shader\Hair Base\Tuni-kun's NS Shader.fx
+Obj[20] = Shader\Hair Base\Tuni-kun's NS Shader.fx
+
